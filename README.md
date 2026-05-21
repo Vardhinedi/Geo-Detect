@@ -1,4 +1,4 @@
-# Satellite Intelligence System
+# GeoDetect
 
 AI-powered multimodal geospatial intelligence system for aerial and satellite imagery analysis.
 
